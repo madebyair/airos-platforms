@@ -16,3 +16,8 @@ However, it is important to understand that it is always necessary to use the la
 | Swan       | -            | -   | WIP   | AMD64        | ✅       | ✅   | UEFI           | 6.8.2  | brtfs (LUKS) |
 | Strawberry | -            | -   | WIP   | AArch64      | ✅       | 🔴   | Raspberry Pi 4 | 6.8.2  | brtfs        |
 | Chestnut   | -            | -   | WIP   | AMD64        | 🟡       | 🔴   | Legacy         | 6.8.2  | ext4         |
+
+### Planned platforms
+Blueberry - for Raspberry Pi 5
+
+Raspberry Pi 5 should work correctly on Strawberry, but there is no optimization and support for new hardware features added in Raspberry Pi 5.

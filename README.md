@@ -13,8 +13,8 @@ However, it is important to understand that it is always necessary to use the la
 
 | Name       | Release date | EOL | State | Architecture | SELinux | TPM | Bootloader     | Kernel | Rootfs       |
 |------------|--------------|-----|-------|--------------|---------|-----|----------------|--------|--------------|
-| Swan       | -            | -   | WIP   | AMD64        | ✅       | ✅   | UEFI           | 6.8.2  | brtfs (LUKS) |
-| Strawberry | -            | -   | WIP   | AArch64      | ✅       | 🔴   | Raspberry Pi 4 | 6.8.2  | brtfs        |
+| Swan       | -            | -   | WIP   | AMD64        | ✅       | ✅   | UEFI           | 6.8.2  | btrfs (LUKS) |
+| Strawberry | -            | -   | WIP   | AArch64      | ✅       | 🔴   | Raspberry Pi 4 | 6.8.2  | btrfs        |
 | Chestnut   | -            | -   | WIP   | AMD64        | 🟡       | 🔴   | Legacy         | 6.8.2  | ext4         |
 
 ### Planned platforms
